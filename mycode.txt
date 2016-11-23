@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>them moi dev 1</title>
-		<meta> them moi nua ne</meta>
+		
 	</head>
 <body>
  <h1>dfsdf</h1>
